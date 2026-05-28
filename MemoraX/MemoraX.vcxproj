@@ -125,9 +125,11 @@
   <ItemGroup>
     <ClCompile Include="MemoraX.cpp" />
     <ClCompile Include="MemoryBlock.cpp" />
+    <ClCompile Include="MoveBox.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MemoryBlock.h" />
+    <ClInclude Include="MoveBox.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
